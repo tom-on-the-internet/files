@@ -1,0 +1,15 @@
+Welcome to my file server!
+
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+█░░║║║╠─║─║─║║║║║╠─░░█
+█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+This file server is a Go binary hosted on AWS Lambda.
+
+All files are embedded in the binary.
+
+The routing is done by to Go standard library.
+
+This is small, simple place.
